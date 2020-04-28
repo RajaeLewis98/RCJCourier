@@ -19,7 +19,7 @@
  /*$password = "Password123";
 $hashpassword = password_hash($password, PASSWORD_DEFAULT);
 echo $hashpassword;
- echo "<br>";*/
+*/
 /*$hash = '$2y$10$gJhvAAVRsWBtlQbzlUj8IuzUeBEMrF9fTpj4FaRoTTzfzDFZ14YFy';
 
 
